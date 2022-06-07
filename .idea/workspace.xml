@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="690186df-efec-454a-8d1d-4f1f293d6105" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/TestMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/TestMaxUc4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
