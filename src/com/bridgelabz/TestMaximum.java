@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelab;
 
 public class TestMaximum {
     int x, y, z;
