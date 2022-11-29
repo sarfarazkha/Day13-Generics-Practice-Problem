@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.NotNul;
 
 /**UC2 : PROBLEM STATEMENT
  * Find maximum of three float values
