@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-/**REFACTOR : PROBLEM STATEMENT
+/**REFACTOR : PROBLEM STATEMENTS
  * Refactor all the 3 to One Generic Method and find the maximum
  *
  */
