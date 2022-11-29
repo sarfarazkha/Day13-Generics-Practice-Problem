@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridglabz;
 
 public class TestMaxUc4 {
     static String maxNumber(String a1, String a2, String a3, String a4) {
