@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-/**UC4 : PROBLEM STATEMENT
+/**UC4 : PROBLEM STATEMENTs
  * Refactor all the 3 to One Generic Method and find the maximum
  *
  */
