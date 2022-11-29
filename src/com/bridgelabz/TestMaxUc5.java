@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelbz;
 
 public class TestMaxUc5 {
     static <T extends Comparable<T>> T maxNumber(T a1, T a2, T a3, T a4) {
